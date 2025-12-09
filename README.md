@@ -141,9 +141,9 @@ This derivation proves that:
 1.  The Principal Components are exactly the columns of $\mathbf{V}$.
 2.  The Eigenvalues $\lambda_i$ of $\mathbf{C}$ are derived from the singular values by:
 
-    $$
-    \lambda_i = \frac{\sigma_i^2}{N-1}
-    $$
+$$
+\lambda_i = \frac{\sigma_i^2}{N-1}
+$$
 
 ---
 
