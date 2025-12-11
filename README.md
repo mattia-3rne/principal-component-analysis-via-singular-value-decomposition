@@ -222,7 +222,7 @@ The resulting matrix $\mathbf{T}_K$ is $N \times K$. It contains the the coordin
 
 ## 📂 Project Structure
 
-* `data_generation.py`: A script to generate synthetic multivariate data.
 * `main.ipynb`: The primary notebook for analysis, and plotting.
+* `data_generation.py`: A script to generate synthetic multivariate data.
 * `requirements.txt`: Python dependencies.
 * `README.md`: Project documentation.
