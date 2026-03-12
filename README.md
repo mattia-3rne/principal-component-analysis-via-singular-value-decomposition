@@ -1,12 +1,12 @@
 # Principal Component Analysis via Singular Value Decomposition
 
-## 📊 Project Overview
+## Project Overview
 
 The goal of this project is to implement **Principal Component Analysis (PCA)** by explicitly utilizing **Singular Value Decomposition (SVD)**. The project demonstrates the complete process: constructing the data manifold, decomposing the matrix into singular vectors, and projecting high-dimensional data onto a lower-dimensional subspace defined by orthogonal axes of maximum variance.
 
 ---
 
-## 🧠 Theoretical Background
+## Theoretical Background
 
 ### The Linear Algebra Formulation
 
@@ -147,7 +147,7 @@ $$
 
 ---
 
-## ⚙️ Application
+## Application
 
 ### 1. Dimension Selection
 
@@ -185,7 +185,7 @@ The resulting matrix $\mathbf{T}_K$ is $N \times K$. It contains the the coordin
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 | Limitation | Description |
 | :--- |:---|
@@ -195,7 +195,7 @@ The resulting matrix $\mathbf{T}_K$ is $N \times K$. It contains the the coordin
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 * Python 3.8+
@@ -220,7 +220,7 @@ The resulting matrix $\mathbf{T}_K$ is $N \times K$. It contains the the coordin
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 * `main.ipynb`: The primary notebook for analysis, and plotting.
 * `data_generation.py`: A script to generate synthetic multivariate data.
